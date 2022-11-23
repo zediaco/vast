@@ -21,7 +21,7 @@ XML/Json
 
 ## Installation
 
-`go get -u github.com/haxqer/vast`
+`go get -u github.com/zediaco/vast`
 
 
 
@@ -33,7 +33,7 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
-	. "github.com/haxqer/vast"
+	. "github.com/zediaco/vast"
 	"time"
 )
 
